@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container-gluid{
+    width: 100%;
+    padding: 50px;
+}
+.wrapper{
+    width: 33%;
+    display: block;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 10px;
+}
+.btn{
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.do-not-have-acnt{
+    font-size: 18px;
+}
